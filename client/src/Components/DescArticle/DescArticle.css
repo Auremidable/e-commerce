@@ -1,0 +1,11 @@
+#width-row {
+    max-width: 100%;
+}
+
+.right {
+    display: inline-flex;
+}
+
+#img-width {
+    width: 50%;
+}

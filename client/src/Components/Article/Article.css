@@ -1,0 +1,13 @@
+.card-group {
+    width: 100%;
+    width: 25%;
+}
+.card-text {
+    font-size: 12px;
+}
+#article {
+    display: flex;
+}
+#price {
+    margin-right: 10px;
+}

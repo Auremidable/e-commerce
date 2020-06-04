@@ -1,0 +1,32 @@
+#footer {
+    margin-top: 50px;
+}
+
+#footer-one {
+    border: solid 1px #343a40;
+    box-shadow: 0 -10px 15px -14px #000;
+}
+
+#shipping-info {
+    padding: 15px 0;
+    font-size: 1.2rem;
+}
+
+#shipping-info i {
+    font-size: 1.6rem;
+    color: #ffc107;
+}
+
+#footer-two {
+    background-color: #343a40;
+    padding: 20px 0px 0px 5px;
+}
+
+#icons-social i {
+    font-size: 2rem;
+    margin: 0rem 1rem;
+}
+
+.copyright {
+    list-style: none;
+}

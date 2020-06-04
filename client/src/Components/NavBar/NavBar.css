@@ -1,0 +1,23 @@
+.icons-nav i, h1 {
+    color: #ffc107;
+}
+.icons-nav i {
+    margin-left: 1.5rem;
+    font-size: 2rem;
+}
+.icons-nav {
+    display: flex;
+}
+a:focus {
+    outline: none;
+}
+.navbar {
+    border-bottom: 2px solid #ffc107;
+}
+#logo {
+    width: 30%;
+    margin-bottom: 10px;
+}
+#voir-panier {
+    margin: .25rem 0;
+}
